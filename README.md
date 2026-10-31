@@ -1,4 +1,4 @@
-Real Estate Market Trends Analysis
+# Real Estate Market Trends Analysis
 
 Tools: Excel | SQL | Power BI (DAX) Author: Souvik Dutta Dataset: 2,000 property listings (synthetic, created for practice)
 
